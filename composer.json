@@ -2,7 +2,7 @@
     "name": "windly/bruce",
     "description": "bruce个人test",
     "type": "project",
-    "license": "sfl",
+    "license": "MIT",
     "minimum-stability": "dev",
     "require": {}
 }
