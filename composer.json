@@ -1,0 +1,8 @@
+{
+    "name": "windly/bruce",
+    "description": "bruce个人test",
+    "type": "project",
+    "license": "sfl",
+    "minimum-stability": "dev",
+    "require": {}
+}
